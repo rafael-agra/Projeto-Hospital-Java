@@ -1,5 +1,5 @@
 # Projeto-Hospital-Java
-Projeto feito para a prova de PCI da Etec , segundo semestre de 2018 2ª avaliação
+Projeto feito para a prova de PCI do curso de técnico de informática da Etec , segundo semestre de 2018 2ª avaliação
 
 Tal projeto consistia na criação de um programa para ser um hospital.
 
